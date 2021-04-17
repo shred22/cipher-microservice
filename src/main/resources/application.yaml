@@ -1,0 +1,6 @@
+encryption:
+  spec:
+    algo: RSA
+    transformation: RSA/ECB/PKCS1Padding
+    key-length: 1024
+
